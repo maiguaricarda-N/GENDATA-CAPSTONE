@@ -1,5 +1,5 @@
 
-**__Case Study 3: CarePulse (Patient & Clinic Scheduling System)__**
+** CarePulse (Patient & Clinic Scheduling System)**
 **Business Background**
 CarePulse operates a network of urgent care clinics across the region. They require an integrated system to handle patient registrations, practitioner schedules, appointment bookings, and diagnosis/billing records while keeping track of medical specializations and internal doctor referrals.
 
