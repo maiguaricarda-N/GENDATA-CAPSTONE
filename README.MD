@@ -25,4 +25,5 @@ CarePulse operates a network of urgent care clinics across the region. They requ
 - Produce the Physical Model (SQL scripts) with appropriate foreign key referential integrity constraints (e.g., ON DELETE CASCADE / SET NULL).
 
 **ERD DIAGRAM**
-![link]()
+![link](https://github.com/maiguaricarda-N/GENDATA-CAPSTONE/blob/main/Screenshot%20(127).png)
+
