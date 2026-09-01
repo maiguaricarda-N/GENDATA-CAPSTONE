@@ -23,3 +23,6 @@ CarePulse operates a network of urgent care clinics across the region. They requ
 - Draw the ER Diagram representing constraints clearly.
 - Translate the ERD into a Relational Schema (3NF). Resolve any complex relationships into foreign key associations.
 - Produce the Physical Model (SQL scripts) with appropriate foreign key referential integrity constraints (e.g., ON DELETE CASCADE / SET NULL).
+
+**ERD DIAGRAM**
+![link]()
