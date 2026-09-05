@@ -11,7 +11,7 @@ CarePulse operates a network of urgent care clinics across the region. They requ
 
 - Doctor Referrals: A practitioner can refer patients to another practitioner (a self-referencing relationship within the doctor entity).
 
-- Patients: Patient ID, national identity number, full name, date of birth, biological sex, contact phone, and primary emergency contact info.
+- Patients: Patient ID, nationaL identity number, full name, date of birth, biological sex, contact phone, and primary emergency contact info.
 
 - Appointments: Appointment ID, appointment date/time, status (Scheduled, Completed, No-Show), assigned Doctor, attending Patient, and the specific Clinic location where the visit occurs.
 
